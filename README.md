@@ -12,5 +12,7 @@ It automatically prependes "test_" and appends ".py" to the name of the file, re
 
 Call it like any other management command(from the project folder):
 
+```python
 python manage.py mt app_name test_name
+```
 
